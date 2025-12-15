@@ -1,0 +1,45 @@
+button {
+    background-color:chocolate ;
+    color:white;
+    border-color: chocolate ;
+}
+#fm {
+    display:hidden;
+}
+textarea {
+    border-color: chocolate;
+    border-radius: 5px;
+}
+input {
+    display:block;
+    border-color: chocolate;
+    border-radius: 5px;
+    width:200px;
+    margin:2px;
+}
+button {
+    margin-top:10px;
+    background-color: chocolate;
+    border-color: chocolate;
+    color:white;
+    border-radius: 5px;
+} 
+
+form label {
+    color:white;
+}
+i {
+    width:100px;
+    margin-left:12em;
+    color:white;
+}
+#fm{
+    width:200px;
+    height:150px;
+    margin-left:31em;
+    margin-top:2em;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
